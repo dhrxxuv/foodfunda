@@ -1,0 +1,42 @@
+{
+  "name": "eoisode_4",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "watch-test":"jest --watch"
+  },
+  "author": "Dhruv",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.5.1",
+    "dom": "^0.0.3",
+    "lucide-react": "^0.474.0",
+    "react": "^19.0.0",
+    "react-loading-skeleton": "^3.5.0",
+    "react-redux": "^9.2.0",
+    "react-router": "^7.1.5",
+    "react-router-dom": "^7.1.5",
+    "react-shimmer": "^3.2.0",
+    "router-dom": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.7",
+    "@babel/preset-env": "^7.26.7",
+    "@babel/preset-react": "^7.26.3",
+    "@babel/preset-typescript": "^7.26.0",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.13.3",
+    "postcss": "^8.5.1",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.17",
+    "util": "^0.12.5"
+  }
+}

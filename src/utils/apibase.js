@@ -1,0 +1,3 @@
+export const apibase = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9715987&lng=77.5945627&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+
+export const Logo = "https://imgs.search.brave.com/gNn_V0Bu6eSO-ep8OOpQ2PQ2zawEDgE6dNZRRWODeqI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9keW5h/bWljLmJyYW5kY3Jv/d2QuY29tL2Fzc2V0/L2xvZ28vNTM3MDM2/NjMtZjJlYS00ZTgx/LThiODktNDQ5NjVi/MDczODAwL2xvZ28t/c2VhcmNoLWdyaWQt/MXg_bG9nb1RlbXBs/YXRlVmVyc2lvbj0y/JnY9NjM4NDMyNzE2/Mjc2ODcwMDAw.jpeg"
